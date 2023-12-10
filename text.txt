@@ -1,0 +1,20 @@
+remote repo
+local repo 
+
+git add .
+git commit -m "adding calculator project files"
+git pull
+git push -u origin master 
+
+
+git branch
+git help 
+
+
+git checkout -b "mitto"
+
+git status
+
+git config --user.email ""
+git config --user.name=""
+
